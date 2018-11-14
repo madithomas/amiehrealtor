@@ -1,4 +1,3 @@
-var closeAd = require('../testAssets/closeAd')
 var clickDropDown = require('../testAssets/clickDropDown')
 
 module.exports = {
